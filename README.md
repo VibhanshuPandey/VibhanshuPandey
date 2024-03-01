@@ -16,8 +16,6 @@
  📫Connect with Me 📫
 </h1>
 
-You can connect with me on various platforms:
-
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/vibhanshu-pandey-1092621b8)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Vibhans87687723)
 [![Website](https://img.shields.io/badge/-Website-black?style=for-the-badge&logo=appveyor&logoColor=white)](https://www.github.com/ishannaik)
