@@ -187,41 +187,12 @@ You can connect with me on various platforms:
   <img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git">
 </a>
 
-<a href="https://www.adobe.com/products/photoshop.html">
-  <img src="https://skillicons.dev/icons?i=ps&theme=dark" alt="Photoshop">
-</a>
 
 </div>
 
 <br/>
 <hr/>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ishannaik/Ishannaik/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ishannaik/Ishannaik/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Ishannaik/Ishannaik/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
-</div>
+![snake gif](https://github.com/VibhanshuPandey/VibhanshuPandey/blob/output/github-contribution-grid-snake.gif)
 
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=ishannaik&theme=default&background=00000000&border=f2f2f2&stroke=6c6c6c&ring=ff6f00&fire=ff6f00&currStreakNum=ff6f00&sideNums=ff6f00&currStreakLabel=ff6f00&sideLabels=ff6f00&dates=ff6f00&excludeDaysLabel=ff6f00"        alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=ishannaik&show_icons=true&title_color=ff6f00&icon_color=ff6f00&text_color=585858&bg_color=00000000" alt="readme stats"/>
-  
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishannaik&layout=compact&title_color=ff6f00&text_color=585858&bg_color=00000000" alt="top langs"/>
-</div>
-
-<br>
-
-<h2 align="center">🙋‍♂️ Support 🙋‍♂️</h2>
-💙 If you like this project, give it a ⭐ and share it with friends!
-
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/ishannaik)
