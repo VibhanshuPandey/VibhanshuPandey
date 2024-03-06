@@ -18,7 +18,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/vibhanshu-pandey-1092621b8)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Vibhans87687723)
-[![Website](https://img.shields.io/badge/-Website-black?style=for-the-badge&logo=appveyor&logoColor=white)](https://www.github.com/ishannaik)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me%20on%20Gmail-critical?style=for-the-badge&logo=gmail)](mailto:pandeyvibhanshu007@gmail.com)
 [![Discord Server](https://img.shields.io/discord/1213134833837019237?color=blue&label=Discord&logo=discord&style=for-the-badge)](https://discord.gg/TPFz3JQE)
 
@@ -46,10 +45,6 @@
   <img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python">
 </a>
 
-<a href="https://www.java.com/">
-  <img src="https://skillicons.dev/icons?i=java&theme=dark" alt="Java">
-</a>
-
 <a href="https://reactjs.org/">
   <img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React">
 </a>
@@ -60,10 +55,6 @@
 
 <a href="https://pytorch.org/">
   <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" alt="PyTorch">
-</a>
-
-<a href="https://svelte.dev/">
-  <img src="https://skillicons.dev/icons?i=svelte&theme=dark" alt="Svelte">
 </a>
 
 <a href="https://expressjs.com/">
