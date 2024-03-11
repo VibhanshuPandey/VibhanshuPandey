@@ -153,11 +153,6 @@
   <img src="https://skillicons.dev/icons?i=notion&theme=dark" alt="Notion">
 </a>
 
-<a href="https://git-scm.com/">
-  <img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git">
-</a>
-
-
 </div>
 
 <br/>
