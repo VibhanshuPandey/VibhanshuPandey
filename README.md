@@ -3,6 +3,8 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Vibhanshu+Pandey!;" />
 </h1>
+</br>
+<img src =https://github.com/VibhanshuPandey/VibhanshuPandey/assets/11766476/cecc4351-280d-4868-90a4-c7ac90790155)/>
 
 <div align="center">
   🔭 I’m currently working on learning to build a fully-fledged e-commerce website & Computer Vision Projects
