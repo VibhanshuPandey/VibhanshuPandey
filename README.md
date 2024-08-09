@@ -17,7 +17,6 @@
 <h1 align="center">
  📫Connect with Me 📫
 </h1>
-
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/vibhanshu-pandey-1092621b8)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Vibhans87687723)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me%20on%20Gmail-critical?style=for-the-badge&logo=gmail)](mailto:pandeyvibhanshu007@gmail.com)
